@@ -4,6 +4,7 @@ Resultado não oficial do ingresso extra-vestibular para o curso de Tecnologia d
 
 Esse repositório foi criado para fins de estudo e curiosidade. '-'
 
+<p>Antes de tentar executar, é necessário ter o Python 3.11.9 instalado.</p>
 <p>Para rodar a aplicação siga o próximos passos no terminal:</p>
  <ol>
   <li>python -m venv venv</li>
